@@ -1,8 +1,14 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "sequence": 1,
-  "updated_at": "2026-07-15T19:03:23Z",
-  "revoked": [],
-  "signature": "4L73aSry2wq2k6ObJnhDAvi87nFq1FLnDE7WkZOObQQP6Z8UeBfSJ066WwRsaOBV9p7IS7LHvLFrU0i3J-2CBA"
+  "sequence": 2,
+  "updated_at": "2026-07-15T20:02:08Z",
+  "revoked": [
+    {
+      "license_id": "871e0584-67ad-4301-954f-efb0c9d8c828",
+      "reason": "JEBAC CIE",
+      "revoked_at": "2026-07-15T20:02:07Z"
+    }
+  ],
+  "signature": "NH-Ys5QADA0hkotoE9YD8mOqz7GDzFmAdOiE0Eptgki6GoK6skR5jUghzKxiOj1SyIM_IN0oqQ9p4gAreTyyCA"
 }
