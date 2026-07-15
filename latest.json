@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.41",
-  "msi_version": "0.7.10041",
-  "build_number": 41,
-  "commit": "f04b042f22fa36db1b73ec481d6d83119aedbca5",
-  "published_at": "2026-07-15T16:04:37.590930Z",
-  "notes": "Zastąp aktualizacje MSI atomowym pakietem ZIP",
+  "version": "0.7.0-dev.42",
+  "msi_version": "0.7.10042",
+  "build_number": 42,
+  "commit": "847ce54f77dd776e7789a1624815af481646651b",
+  "published_at": "2026-07-15T19:10:18.958410Z",
+  "notes": "Dodaj internetowe unieważnianie licencji",
   "asset": {
-    "name": "KillzoneTools-build-41-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-41-x64.msi",
-    "sha256": "f6370f4c124e7d8dd1008fb9942457e3093fd7cd0382ae954d8f7416dafd97ad",
-    "size": 15618692
+    "name": "KillzoneTools-build-42-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-42-x64.msi",
+    "sha256": "18ee0fd3624381fb4a758d4db4cf716447e6944565d552cf7a2562ce72484928",
+    "size": 15626884
   },
   "package": {
-    "name": "KillzoneTools-build-41-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-41-x64.zip",
-    "sha256": "21fe67f649a113d5a9d84ad41e7150125a0f62819a7e268dd94708b1c0a561a8",
-    "size": 19167857
+    "name": "KillzoneTools-build-42-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-42-x64.zip",
+    "sha256": "4a03d17bb3450d3cf94458c9c9bcb543f353dff98bca5b7ae7a391b68cf96920",
+    "size": 19178746
   }
 }
