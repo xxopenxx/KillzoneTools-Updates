@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.48",
-  "msi_version": "0.7.10048",
-  "build_number": 48,
-  "commit": "3a4399e1f4a25b4d7287298e9ca406230ac4e9d8",
-  "published_at": "2026-07-15T21:59:14.991665Z",
-  "notes": "Uprość interfejs i panel gry",
+  "version": "0.7.0-dev.49",
+  "msi_version": "0.7.10049",
+  "build_number": 49,
+  "commit": "cdc319f702bf900975ea467ca09a4a8948b0b87b",
+  "published_at": "2026-07-15T22:17:11.141839Z",
+  "notes": "Usuń pętlę i blokadę aktualizatora",
   "asset": {
-    "name": "KillzoneTools-build-48-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-48-x64.msi",
-    "sha256": "075dedd846e8eac963b37fab5425c3f086f9ea7dd3fc983ba797c5d999a14504",
+    "name": "KillzoneTools-build-49-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-49-x64.msi",
+    "sha256": "eb3b2015cebd2c06456b41c6f6e42dab48f0146c74744a722efb06cfcb1f4c76",
     "size": 15626884
   },
   "package": {
-    "name": "KillzoneTools-build-48-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-48-x64.zip",
-    "sha256": "a7f6ee27dffbb727a42b1cb257f728a6ffbf9a5c64958cd826a6f06ee749f425",
-    "size": 19178719
+    "name": "KillzoneTools-build-49-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-49-x64.zip",
+    "sha256": "839f6c678f5aef2e1d3cae7a33f4fac828ff8f982bb184715189fe085486d78e",
+    "size": 19181209
   }
 }
