@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "product": "KillzoneTools",
+  "version": "0.7.0-dev.41",
+  "msi_version": "0.7.10041",
+  "build_number": 41,
+  "commit": "f04b042f22fa36db1b73ec481d6d83119aedbca5",
+  "published_at": "2026-07-15T16:04:37.590930Z",
+  "notes": "Zastąp aktualizacje MSI atomowym pakietem ZIP",
+  "asset": {
+    "name": "KillzoneTools-build-41-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-41-x64.msi",
+    "sha256": "f6370f4c124e7d8dd1008fb9942457e3093fd7cd0382ae954d8f7416dafd97ad",
+    "size": 15618692
+  },
+  "package": {
+    "name": "KillzoneTools-build-41-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-41-x64.zip",
+    "sha256": "21fe67f649a113d5a9d84ad41e7150125a0f62819a7e268dd94708b1c0a561a8",
+    "size": 19167857
+  }
+}
