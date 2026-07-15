@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.46",
-  "msi_version": "0.7.10046",
-  "build_number": 46,
-  "commit": "8915bd572cbcf88b7902c039d062e6fd52ca959e",
-  "published_at": "2026-07-15T19:57:29.147412Z",
-  "notes": "Popraw układ akcji w panelu licencji",
+  "version": "0.7.0-dev.47",
+  "msi_version": "0.7.10047",
+  "build_number": 47,
+  "commit": "fc81ad5f8c19e06560a8b70cb555235a30dc404a",
+  "published_at": "2026-07-15T20:12:59.473638Z",
+  "notes": "Napraw pętlę aktualizacji po unieważnieniu licencji",
   "asset": {
-    "name": "KillzoneTools-build-46-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-46-x64.msi",
-    "sha256": "9c51711c1866646843e32ba254fd70b6105fcf807c52acc37d5deca3aeecea41",
+    "name": "KillzoneTools-build-47-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-47-x64.msi",
+    "sha256": "1e6a474f7c00b229e14436264fc0054da540d940a2699d48863e61149145c9b3",
     "size": 15626884
   },
   "package": {
-    "name": "KillzoneTools-build-46-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-46-x64.zip",
-    "sha256": "62bfee94ca4f796e509ec19fb42712a5b64b292b57f315ca3a1f3c6d49ab8ec0",
-    "size": 19180157
+    "name": "KillzoneTools-build-47-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-47-x64.zip",
+    "sha256": "ffbd9d50fa5687178f01964e5410d89888a41b5642506d26ca89a45b87a514d5",
+    "size": 19181165
   }
 }
