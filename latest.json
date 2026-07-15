@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.49",
-  "msi_version": "0.7.10049",
-  "build_number": 49,
-  "commit": "cdc319f702bf900975ea467ca09a4a8948b0b87b",
-  "published_at": "2026-07-15T22:17:11.141839Z",
-  "notes": "Usuń pętlę i blokadę aktualizatora",
+  "version": "0.7.0-dev.50",
+  "msi_version": "0.7.10050",
+  "build_number": 50,
+  "commit": "d137bd5781756aabc4ade5cca927ad396e4f01c3",
+  "published_at": "2026-07-15T23:26:13.517777Z",
+  "notes": "Dodaj język polski i angielski",
   "asset": {
-    "name": "KillzoneTools-build-49-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-49-x64.msi",
-    "sha256": "eb3b2015cebd2c06456b41c6f6e42dab48f0146c74744a722efb06cfcb1f4c76",
-    "size": 15626884
+    "name": "KillzoneTools-build-50-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-50-x64.msi",
+    "sha256": "c365c512e840e19f7054912a1e1c45def900c5fe272b2ea64d365a2501510dc3",
+    "size": 15635164
   },
   "package": {
-    "name": "KillzoneTools-build-49-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-49-x64.zip",
-    "sha256": "839f6c678f5aef2e1d3cae7a33f4fac828ff8f982bb184715189fe085486d78e",
-    "size": 19181209
+    "name": "KillzoneTools-build-50-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-50-x64.zip",
+    "sha256": "b0473d03d4b198a6a2a695eec9dc6d60cdafc9bf50f6ff4b3b6d6eee75b90228",
+    "size": 19191875
   }
 }
