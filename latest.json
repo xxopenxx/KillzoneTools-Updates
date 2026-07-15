@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.45",
-  "msi_version": "0.7.10045",
-  "build_number": 45,
-  "commit": "e10043fe1549717282b3941ac73027644a81dfee",
-  "published_at": "2026-07-15T19:18:36.537838Z",
-  "notes": "Czytaj krytyczne manifesty bezpośrednio z GitHub API",
+  "version": "0.7.0-dev.46",
+  "msi_version": "0.7.10046",
+  "build_number": 46,
+  "commit": "8915bd572cbcf88b7902c039d062e6fd52ca959e",
+  "published_at": "2026-07-15T19:57:29.147412Z",
+  "notes": "Popraw układ akcji w panelu licencji",
   "asset": {
-    "name": "KillzoneTools-build-45-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-45-x64.msi",
-    "sha256": "d1240c3a7027f69750544eab9d36af2d106379096f748922c7822a75b0fcab16",
+    "name": "KillzoneTools-build-46-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-46-x64.msi",
+    "sha256": "9c51711c1866646843e32ba254fd70b6105fcf807c52acc37d5deca3aeecea41",
     "size": 15626884
   },
   "package": {
-    "name": "KillzoneTools-build-45-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-45-x64.zip",
-    "sha256": "9237c3ea862c1a0f4cc7070fd8e18d72af1748c20b7da5e4a7818e5029ab1acd",
-    "size": 19180128
+    "name": "KillzoneTools-build-46-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-46-x64.zip",
+    "sha256": "62bfee94ca4f796e509ec19fb42712a5b64b292b57f315ca3a1f3c6d49ab8ec0",
+    "size": 19180157
   }
 }
