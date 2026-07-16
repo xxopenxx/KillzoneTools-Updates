@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.50",
-  "msi_version": "0.7.10050",
-  "build_number": 50,
-  "commit": "d137bd5781756aabc4ade5cca927ad396e4f01c3",
-  "published_at": "2026-07-15T23:26:13.517777Z",
-  "notes": "Dodaj język polski i angielski",
+  "version": "0.7.0-dev.51",
+  "msi_version": "0.7.10051",
+  "build_number": 51,
+  "commit": "06491f2c778fa9e39e126c219ef8ae5e661f0e5e",
+  "published_at": "2026-07-16T00:03:05.950206Z",
+  "notes": "Napraw obsluge modow Workshop",
   "asset": {
-    "name": "KillzoneTools-build-50-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-50-x64.msi",
-    "sha256": "c365c512e840e19f7054912a1e1c45def900c5fe272b2ea64d365a2501510dc3",
-    "size": 15635164
+    "name": "KillzoneTools-build-51-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-51-x64.msi",
+    "sha256": "aedfc2f757415926ea807b2e4c66e2655f7062c6ac2de56cb96d9d586416aede",
+    "size": 15643356
   },
   "package": {
-    "name": "KillzoneTools-build-50-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-50-x64.zip",
-    "sha256": "b0473d03d4b198a6a2a695eec9dc6d60cdafc9bf50f6ff4b3b6d6eee75b90228",
-    "size": 19191875
+    "name": "KillzoneTools-build-51-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-51-x64.zip",
+    "sha256": "657a2429dd97691612db1011c4c7f5d0ebc936d3ca2ed8a5cdecad544b348e46",
+    "size": 19199505
   }
 }
