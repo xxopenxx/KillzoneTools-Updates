@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.51",
-  "msi_version": "0.7.10051",
-  "build_number": 51,
-  "commit": "06491f2c778fa9e39e126c219ef8ae5e661f0e5e",
-  "published_at": "2026-07-16T00:03:05.950206Z",
-  "notes": "Napraw obsluge modow Workshop",
+  "version": "0.7.0-dev.52",
+  "msi_version": "0.7.10052",
+  "build_number": 52,
+  "commit": "3ae82ffc57d24b0f00aaceea5c5da4a052f09480",
+  "published_at": "2026-07-16T00:09:50.466121Z",
+  "notes": "Napraw powrot z lokalnych buildow aktualizatora",
   "asset": {
-    "name": "KillzoneTools-build-51-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-51-x64.msi",
-    "sha256": "aedfc2f757415926ea807b2e4c66e2655f7062c6ac2de56cb96d9d586416aede",
-    "size": 15643356
+    "name": "KillzoneTools-build-52-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-52-x64.msi",
+    "sha256": "67e3b08aad7839aeacffaff3d2aec432f2c3215cc0ac1eafe77ade5d395e6cd7",
+    "size": 15647452
   },
   "package": {
-    "name": "KillzoneTools-build-51-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-51-x64.zip",
-    "sha256": "657a2429dd97691612db1011c4c7f5d0ebc936d3ca2ed8a5cdecad544b348e46",
-    "size": 19199505
+    "name": "KillzoneTools-build-52-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-52-x64.zip",
+    "sha256": "7a35f6c48eddbf30c1d56b66c252891590650445b77768b2a1e4068d9a4efb96",
+    "size": 19199891
   }
 }
