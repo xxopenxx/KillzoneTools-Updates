@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.52",
-  "msi_version": "0.7.10052",
-  "build_number": 52,
-  "commit": "3ae82ffc57d24b0f00aaceea5c5da4a052f09480",
-  "published_at": "2026-07-16T00:09:50.466121Z",
-  "notes": "Napraw powrot z lokalnych buildow aktualizatora",
+  "version": "0.7.0-dev.53",
+  "msi_version": "0.7.10053",
+  "build_number": 53,
+  "commit": "75a25086710bbdbd734f80c11da467504cb31c85",
+  "published_at": "2026-07-17T12:40:39.514417Z",
+  "notes": "Rozszerz automatyczny import Workshop",
   "asset": {
-    "name": "KillzoneTools-build-52-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-52-x64.msi",
-    "sha256": "67e3b08aad7839aeacffaff3d2aec432f2c3215cc0ac1eafe77ade5d395e6cd7",
-    "size": 15647452
+    "name": "KillzoneTools-build-53-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-53-x64.msi",
+    "sha256": "3ac45a5e910ffd0e28c47eea4bb0a9642a5f972c22599805b42dab31fa33f82f",
+    "size": 19272516
   },
   "package": {
-    "name": "KillzoneTools-build-52-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-52-x64.zip",
-    "sha256": "7a35f6c48eddbf30c1d56b66c252891590650445b77768b2a1e4068d9a4efb96",
-    "size": 19199891
+    "name": "KillzoneTools-build-53-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-53-x64.zip",
+    "sha256": "f76083db302936551feb9265c3602b0f6172dc148ec5c86b0be25975ae344269",
+    "size": 25551149
   }
 }
