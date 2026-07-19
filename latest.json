@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.53",
-  "msi_version": "0.7.10053",
-  "build_number": 53,
-  "commit": "75a25086710bbdbd734f80c11da467504cb31c85",
-  "published_at": "2026-07-17T12:40:39.514417Z",
-  "notes": "Rozszerz automatyczny import Workshop",
+  "version": "0.7.0-dev.57",
+  "msi_version": "0.7.10057",
+  "build_number": 57,
+  "commit": "0b37a4714d59c918f8e08a95cde638f102558529",
+  "published_at": "2026-07-19T01:34:41.928281Z",
+  "notes": "Dodaj obsługę wielu kont Steam i ochronę Cloud",
   "asset": {
-    "name": "KillzoneTools-build-53-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-53-x64.msi",
-    "sha256": "3ac45a5e910ffd0e28c47eea4bb0a9642a5f972c22599805b42dab31fa33f82f",
-    "size": 19272516
+    "name": "KillzoneTools-build-57-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-57-x64.msi",
+    "sha256": "89b0693dfd121f2fa96f645dc7a1ff9fe1936d1c46cdf9262addb13242cbb2f3",
+    "size": 19309416
   },
   "package": {
-    "name": "KillzoneTools-build-53-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-53-x64.zip",
-    "sha256": "f76083db302936551feb9265c3602b0f6172dc148ec5c86b0be25975ae344269",
-    "size": 25551149
+    "name": "KillzoneTools-build-57-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-57-x64.zip",
+    "sha256": "34c70f30ee954c0e6285119fe96feed8f43a29c897107c2f4c9c024d64327b91",
+    "size": 25587564
   }
 }
