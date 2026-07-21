@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.57",
-  "msi_version": "0.7.10057",
-  "build_number": 57,
-  "commit": "0b37a4714d59c918f8e08a95cde638f102558529",
-  "published_at": "2026-07-19T01:34:41.928281Z",
-  "notes": "Dodaj obsługę wielu kont Steam i ochronę Cloud",
+  "version": "0.7.0-dev.60",
+  "msi_version": "0.7.10060",
+  "build_number": 60,
+  "commit": "f044522efd6bd6ddd3003dfd1566b5cc7da3fc8e",
+  "published_at": "2026-07-21T00:10:49.870287Z",
+  "notes": "Napraw pierwsze pobieranie moda po starcie",
   "asset": {
-    "name": "KillzoneTools-build-57-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-57-x64.msi",
-    "sha256": "89b0693dfd121f2fa96f645dc7a1ff9fe1936d1c46cdf9262addb13242cbb2f3",
-    "size": 19309416
+    "name": "KillzoneTools-build-60-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-60-x64.msi",
+    "sha256": "c0a65322760d989be2882f114f971a14ba32b7effd829130b094410d71ceb824",
+    "size": 19764152
   },
   "package": {
-    "name": "KillzoneTools-build-57-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-57-x64.zip",
-    "sha256": "34c70f30ee954c0e6285119fe96feed8f43a29c897107c2f4c9c024d64327b91",
-    "size": 25587564
+    "name": "KillzoneTools-build-60-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-60-x64.zip",
+    "sha256": "b8615aea4229235c9b4e1154c065ee4c882a26f0ebdebf362cd602df105dba2e",
+    "size": 26251028
   }
 }
