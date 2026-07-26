@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.64",
-  "msi_version": "0.7.10064",
-  "build_number": 64,
-  "commit": "e5a63c492c2b2dbb5d96dafa96a369b9c0103293",
-  "published_at": "2026-07-26T02:40:08.387716Z",
-  "notes": "Nie duplikuj paczek aktualizacji w Actions",
+  "version": "0.7.0-dev.65",
+  "msi_version": "0.7.10065",
+  "build_number": 65,
+  "commit": "b6ee80bf63f7463b9dd41dc4d754785713ae2531",
+  "published_at": "2026-07-26T19:15:29.177709Z",
+  "notes": "Dodaj szybki panel gry i podgląd Steam w aplikacji",
   "asset": {
-    "name": "KillzoneTools-build-64-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-64-x64.msi",
-    "sha256": "07fdf4554b11ca974b88767d7bb922c5d3a964c8a40fae8bb276251c2edde7f1",
-    "size": 20151446
+    "name": "KillzoneTools-build-65-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-65-x64.msi",
+    "sha256": "3b5adef0cac5de5f4b355c326bd1b09697d60f0d8d21bc647ef15fa6f7432d44",
+    "size": 20163734
   },
   "package": {
-    "name": "KillzoneTools-build-64-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-64-x64.zip",
-    "sha256": "979c4ad9ae89ba08c709e2338cad77bfa2ffe7ebc40cdf7a8bc6f75aee0c5709",
-    "size": 26722134
+    "name": "KillzoneTools-build-65-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-65-x64.zip",
+    "sha256": "4ac63496973d80c476b8318d9a97db9e44e36cc9ce6d3125bed74e86c1bbedfd",
+    "size": 26731163
   }
 }
