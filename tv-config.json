@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "sequence": 1,
-  "updated_at": "2026-08-01T20:11:59Z",
-  "mode": "url",
-  "source": "http://81.31.194.66:8080/get.php?username=pro2921768307733&password=6a8b5a27cb9d&type=m3u_plus&output=ts",
-  "sha256": "",
+  "sequence": 2,
+  "updated_at": "2026-08-01T20:48:06Z",
+  "mode": "inline",
+  "source": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/tv-playlist-f6efcdd4535fbb63.m3u",
+  "sha256": "f6efcdd4535fbb6302a1f6e25dcf15ce8f6c07dcb9dfc957c7bad91e522a33e8",
   "country_id": "pl",
   "country_name": "Polska",
-  "signature": "XVboYNT3tpfRzufTK1BuJSx14Uu9CfWVxRcxF6wJMaFDzIo3aUzQIKfY0XF1ecflQd0W4b0_lkkEgKGjhMhICQ"
+  "signature": "JbWo3wR8xa9hryeiBM7nTQPI4lwrwMnOin88DWMr9j1u3wnVYh03pMZM8sDxgCZdQ211MsRwHNOEkofNFElRCw"
 }
