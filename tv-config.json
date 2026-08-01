@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "product": "KillzoneTools",
+  "sequence": 1,
+  "updated_at": "2026-08-01T20:11:59Z",
+  "mode": "url",
+  "source": "http://81.31.194.66:8080/get.php?username=pro2921768307733&password=6a8b5a27cb9d&type=m3u_plus&output=ts",
+  "sha256": "",
+  "country_id": "pl",
+  "country_name": "Polska",
+  "signature": "XVboYNT3tpfRzufTK1BuJSx14Uu9CfWVxRcxF6wJMaFDzIo3aUzQIKfY0XF1ecflQd0W4b0_lkkEgKGjhMhICQ"
+}
