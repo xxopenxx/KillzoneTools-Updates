@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "sequence": 3,
-  "updated_at": "2026-08-01T20:51:48Z",
+  "sequence": 4,
+  "updated_at": "2026-08-01T21:25:43Z",
   "mode": "url",
-  "source": "http://81.31.194.66:8080/get.php?username=pro2921768307733&password=6a8b5a27cb9d&type=m3u_plus&output=ts",
+  "source": "https://pikniktv.info/upload/downloads/All_Vip.m3u",
   "sha256": "",
   "country_id": "pl",
   "country_name": "Polska",
-  "signature": "EWOXM4mU0Tjaiee8rf9hsGzk3FUTUlAZR1tPmjU2Gn6q4tFgPmIR4Dr4l4KWhNFOO8b3xn9UebE6YapX14tUCA"
+  "signature": "oIpvwrHeOru6uWp0qIFIlVfWZP8tUSxt_nsE6D2UbeWtOJ8XO5RbT9g36Tr5AcQFbEeexacV7nLfSg9BOhqSBg"
 }
