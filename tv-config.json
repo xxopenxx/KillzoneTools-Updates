@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 21,
-  "updated_at": "2026-08-02T23:10:41Z",
+  "sequence": 22,
+  "updated_at": "2026-08-02T23:13:32Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -99,7 +99,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "VIP UFC FIGHT NIGHT PASS",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/1736",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "Ms7KmouAxtH7fAU8oro8ZonBppYNwHukMio3ip0LN1CWT1oDp8FbWvTuvjBuJpD3aFQVbFTMzGObXjva2LdKDw"
+  "signature": "N3L2t-VCAj5rwzuAMZxK19mmUAsd13AMlIXw0n_OF3pACcXoaeX6c2uViZxB8b6YnvjONawZSyYk377QyLJvAw"
 }
