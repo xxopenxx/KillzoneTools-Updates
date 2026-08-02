@@ -1,12 +1,14 @@
 {
-  "schema": 1,
+  "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 5,
-  "updated_at": "2026-08-02T16:41:50Z",
-  "mode": "inline",
-  "source": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/tv-playlist-f6efcdd4535fbb63.m3u",
-  "sha256": "f6efcdd4535fbb6302a1f6e25dcf15ce8f6c07dcb9dfc957c7bad91e522a33e8",
+  "sequence": 6,
+  "updated_at": "2026-08-02T20:34:33Z",
+  "mode": "channels",
+  "source": "",
+  "sha256": "",
   "country_id": "pl",
   "country_name": "Polska",
-  "signature": "tcjC10Z4lKTcigVl1QNSWPZuNk-RX5L-w90-UZ5Gp9tuR-_QgKAQksg0O5gb_9dv86pjV9d_i4aFKaK9VbizBQ"
+  "epg_sources": [],
+  "custom_channels": [],
+  "signature": "VlRtcEKp3PIdDMNbagYRDXCEYwgT6joNeEbb3YzHteFTBUo4oKkUUZGDhWp29Il9j3XK3Msged_k7PQ8sMUrCw"
 }
