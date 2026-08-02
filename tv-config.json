@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 18,
-  "updated_at": "2026-08-02T23:07:08Z",
+  "sequence": 19,
+  "updated_at": "2026-08-02T23:07:53Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -72,7 +72,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Polsat Sport 3",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/887",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "PUBdLY2b-xIW_dE3ztatN2BEIIWLr13EkeowERa2OkGbgBqbrDkQPSPGJ_vX5icXB3PcHJT44TtjRRDinbNMBg"
+  "signature": "7m943oVMWrvwQ94rb6hx7L2v4tXsA1rnjzHeollQxWOCz1SjgdEW2BL4qxW4AFR0gGfk9UHkEVQCLhTDtBP6CA"
 }
