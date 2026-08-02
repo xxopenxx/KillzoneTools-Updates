@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 14,
-  "updated_at": "2026-08-02T22:30:39Z",
+  "sequence": 15,
+  "updated_at": "2026-08-02T22:35:51Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -54,7 +54,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TVN HD",
+      "url": "http://ua.seetv.cc/play/5491/1966B8DE7EC6FEE/video.m3u8",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "HieoGSzS0u31pmXri8OWe6UydoYcf_CdRVa4PEEdE0-sFRfG0ZWVLcv5rMVw-0qTqrpU8gRqCtGus2c9wlk-Bw"
+  "signature": "Y5D5aWlxyNusFavQv6xS-OLyEAwh0hWFJl2lMQfoE4jdhpGeb58ovEsrGUczG4e-L4R2ebjHFY4vM8G8sbpKDg"
 }
