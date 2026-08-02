@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 17,
-  "updated_at": "2026-08-02T23:04:30Z",
+  "sequence": 18,
+  "updated_at": "2026-08-02T23:07:08Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -13,7 +13,7 @@
     {
       "name": "Polsat News",
       "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
-      "group": "Własne",
+      "group": "Wydarzenia",
       "logo": "",
       "tvg_id": "",
       "user_agent": "",
@@ -22,7 +22,7 @@
     {
       "name": "Polsat Sport 1",
       "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
-      "group": "Własne",
+      "group": "Sport",
       "logo": "",
       "tvg_id": "",
       "user_agent": "",
@@ -40,7 +40,7 @@
     {
       "name": "TVN 24 HD",
       "url": "http://81.31.194.66:8080/pro2921768307733/6a8b5a27cb9d/1004",
-      "group": "Własne",
+      "group": "Wydarzenia",
       "logo": "",
       "tvg_id": "",
       "user_agent": "",
@@ -49,7 +49,7 @@
     {
       "name": "TVN TURBO HD",
       "url": "http://neosfpoo.top:8080/4571764082049390/c38ry7k9fsa9/10244",
-      "group": "Własne",
+      "group": "Filmy",
       "logo": "",
       "tvg_id": "",
       "user_agent": "",
@@ -63,7 +63,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Polsat Sport 2",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/886",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "1VxdCWJe1c9s2vEboVvNXBqv5-ALYouk-p2GT_XGWkuaXIiggSrhrzUWn9G8TAKFEmppXq5N1EW8MDgVs9AFBQ"
+  "signature": "PUBdLY2b-xIW_dE3ztatN2BEIIWLr13EkeowERa2OkGbgBqbrDkQPSPGJ_vX5icXB3PcHJT44TtjRRDinbNMBg"
 }
