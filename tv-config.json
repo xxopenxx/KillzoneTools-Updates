@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 13,
-  "updated_at": "2026-08-02T22:28:21Z",
+  "sequence": 14,
+  "updated_at": "2026-08-02T22:30:39Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -45,7 +45,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TVN TURBO HD",
+      "url": "http://neosfpoo.top:8080/4571764082049390/c38ry7k9fsa9/10244",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "aMaLiRC-Eu85nFtUTXSXzD_wOl5vx0NFilGSrhwRJYybQp8U13teGFUS39ANh_5FdMSRLyXl2ue-bQHjW6nxBg"
+  "signature": "HieoGSzS0u31pmXri8OWe6UydoYcf_CdRVa4PEEdE0-sFRfG0ZWVLcv5rMVw-0qTqrpU8gRqCtGus2c9wlk-Bw"
 }
