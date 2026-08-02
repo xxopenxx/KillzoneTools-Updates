@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 19,
-  "updated_at": "2026-08-02T23:07:53Z",
+  "sequence": 20,
+  "updated_at": "2026-08-02T23:09:56Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -81,7 +81,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TV Republika",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/1017",
+      "group": "Wydarzenia",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "7m943oVMWrvwQ94rb6hx7L2v4tXsA1rnjzHeollQxWOCz1SjgdEW2BL4qxW4AFR0gGfk9UHkEVQCLhTDtBP6CA"
+  "signature": "RvIRfCYFHhdI5spyJiEifzvanp0_sNYk8DUeOZxgcgik1VOYCgPExtts4hg05q8fhILMEnhCeC1nt14nKdroBg"
 }
