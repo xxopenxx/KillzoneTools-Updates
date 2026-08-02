@@ -2,7 +2,7 @@
   "schema": 1,
   "product": "KillzoneTools",
   "sequence": 3,
-  "updated_at": "2026-08-02T23:34:27Z",
+  "updated_at": "2026-08-02T23:35:55Z",
   "revoked": [
     {
       "license_id": "8e082969-f883-48f4-b91d-70b056945a5d",
@@ -15,5 +15,5 @@
       "revoked_at": "2026-07-15T20:02:07Z"
     }
   ],
-  "signature": "oMSqFZvqWAXpHvlI61gJmadX5AdmgE1dosOAQHwkLHJoPHci9tmj9_pepn_mvcfSAD7UNMrHm0qfcPIB56_rDQ"
+  "signature": "GUNIAUf2rm_2InS_TuPNiv6-PR_9yC2YUpVU3ihxesA83IO4qxxalWTd6WYWk2GutGD2Twzx1eXeOhJXIfPZCA"
 }
