@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 15,
-  "updated_at": "2026-08-02T22:35:51Z",
+  "sequence": 16,
+  "updated_at": "2026-08-02T22:49:44Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -63,7 +63,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Polsat Sport EXTRA",
+      "url": "https://list.iptvcat.com/my_list/s/afb8bbb93773c9427e13beb4cdc93d7b.m3u8",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "Y5D5aWlxyNusFavQv6xS-OLyEAwh0hWFJl2lMQfoE4jdhpGeb58ovEsrGUczG4e-L4R2ebjHFY4vM8G8sbpKDg"
+  "signature": "HjWQrKwqb6HD_BrM8QWYPWkFr72tIMN7ivLatNERurUY3GDpJ1kFTjqgBf46vAO6Df6ujK4Tmsqi93Qm9OenCg"
 }
