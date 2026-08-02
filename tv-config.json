@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 10,
-  "updated_at": "2026-08-02T21:01:17Z",
+  "sequence": 11,
+  "updated_at": "2026-08-02T21:38:40Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -18,7 +18,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Polsat Sport 1",
+      "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "atyhUAZ0WfidH0EJIhA1VRHFkKmqOchFWkOlF47NXoCsrVAmnRh_46WcKgHavFVCAqzc9Fw5isTaE-yzCe3RDQ"
+  "signature": "2Ekd7Sf4fVucsV-jcwlK1x6gce6upodcgxoue1vd8CNDdn4RXl8gIKMR7uwicAcgnw-Z5fs8mNIgWp0ffBX0AA"
 }
