@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 9,
-  "updated_at": "2026-08-02T20:35:05Z",
+  "sequence": 10,
+  "updated_at": "2026-08-02T21:01:17Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -20,5 +20,5 @@
       "referrer": ""
     }
   ],
-  "signature": "EcT_09ta09qcYOHpGtcqAg9Dmzu5lU29E6u191GKKc_3Qc9wqx67jP-DawSQe-d73HDSP27CJySNF3_TSZflDA"
+  "signature": "atyhUAZ0WfidH0EJIhA1VRHFkKmqOchFWkOlF47NXoCsrVAmnRh_46WcKgHavFVCAqzc9Fw5isTaE-yzCe3RDQ"
 }
