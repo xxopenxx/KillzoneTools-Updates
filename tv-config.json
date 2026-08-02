@@ -1,14 +1,24 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 8,
-  "updated_at": "2026-08-02T20:34:43Z",
+  "sequence": 9,
+  "updated_at": "2026-08-02T20:35:05Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
   "country_id": "pl",
   "country_name": "Polska",
   "epg_sources": [],
-  "custom_channels": [],
-  "signature": "kFxV-bVgvoCLGIIK9SHMQT3o_wQN-SZtNoyfzFW0Dhcy9OsP9UtTJVGu_-MwGEoNolU-a8u5MJ7QnRuuPg7bAA"
+  "custom_channels": [
+    {
+      "name": "Polsat News",
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    }
+  ],
+  "signature": "EcT_09ta09qcYOHpGtcqAg9Dmzu5lU29E6u191GKKc_3Qc9wqx67jP-DawSQe-d73HDSP27CJySNF3_TSZflDA"
 }
