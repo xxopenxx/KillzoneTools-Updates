@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 11,
-  "updated_at": "2026-08-02T21:38:40Z",
+  "sequence": 12,
+  "updated_at": "2026-08-02T21:55:55Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -27,7 +27,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Canal+ Sport HD",
+      "url": "http://neosfpoo.top:8080/4571764082049390/c38ry7k9fsa9/10129",
+      "group": "Własne",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "2Ekd7Sf4fVucsV-jcwlK1x6gce6upodcgxoue1vd8CNDdn4RXl8gIKMR7uwicAcgnw-Z5fs8mNIgWp0ffBX0AA"
+  "signature": "NVmq85JhPjwBDeejO0jChBiilnJwPcT4n_IeHd3Qf1mI_Ep9-kfVjKA41vUNL3CAXDzvYuOMZ_v4v5blsmGBBw"
 }
