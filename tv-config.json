@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 20,
-  "updated_at": "2026-08-02T23:09:56Z",
+  "sequence": 21,
+  "updated_at": "2026-08-02T23:10:41Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -90,7 +90,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TVP Sport",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/1030",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "RvIRfCYFHhdI5spyJiEifzvanp0_sNYk8DUeOZxgcgik1VOYCgPExtts4hg05q8fhILMEnhCeC1nt14nKdroBg"
+  "signature": "Ms7KmouAxtH7fAU8oro8ZonBppYNwHukMio3ip0LN1CWT1oDp8FbWvTuvjBuJpD3aFQVbFTMzGObXjva2LdKDw"
 }
