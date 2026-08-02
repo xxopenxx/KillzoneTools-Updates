@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "sequence": 4,
-  "updated_at": "2026-08-01T21:25:43Z",
-  "mode": "url",
-  "source": "https://pikniktv.info/upload/downloads/All_Vip.m3u",
-  "sha256": "",
+  "sequence": 5,
+  "updated_at": "2026-08-02T16:41:50Z",
+  "mode": "inline",
+  "source": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/tv-playlist-f6efcdd4535fbb63.m3u",
+  "sha256": "f6efcdd4535fbb6302a1f6e25dcf15ce8f6c07dcb9dfc957c7bad91e522a33e8",
   "country_id": "pl",
   "country_name": "Polska",
-  "signature": "oIpvwrHeOru6uWp0qIFIlVfWZP8tUSxt_nsE6D2UbeWtOJ8XO5RbT9g36Tr5AcQFbEeexacV7nLfSg9BOhqSBg"
+  "signature": "tcjC10Z4lKTcigVl1QNSWPZuNk-RX5L-w90-UZ5Gp9tuR-_QgKAQksg0O5gb_9dv86pjV9d_i4aFKaK9VbizBQ"
 }
