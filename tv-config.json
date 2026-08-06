@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 23,
-  "updated_at": "2026-08-06T01:02:48Z",
+  "sequence": 24,
+  "updated_at": "2026-08-06T01:14:02Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -108,7 +108,79 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Canal+ Seriale",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/918",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Canal+ 1",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/911",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Eurosport",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/884",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Eurosport 2",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/885",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Premium",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/870",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Fight",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/888",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport 1",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/34309",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/976",
+      "group": "Bajki",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "5OuMThEVPczMjaE5jSXSHL0OiJ6ItqNy6JiXXJs_EEtDRoG0Z9jw9gLw7vqNgSCLIeoBZo4DwqSUhHZVI4-6Dg"
+  "signature": "2kLAAv5gAeYXPLf2JXClHRvBes0oHrSNcAZI1V_WLLoOM1Zj7e4z6Nz5L1WdEOvHBJEq2My2_gBCg_1_7Zb0Cg"
 }
