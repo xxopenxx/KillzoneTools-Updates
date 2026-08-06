@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 26,
-  "updated_at": "2026-08-06T01:44:42Z",
+  "sequence": 27,
+  "updated_at": "2026-08-06T02:33:16Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Canal+ Sport HD",
-      "url": "http://neosfpoo.top:8080/4571764082049390/c38ry7k9fsa9/10129",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/821957",
       "group": "Sport",
       "logo": "",
       "tvg_id": "",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Polsat Play FHD",
-      "url": "http://zw00.xyz:8080/live/ckpJDWBu/rPu9zDahWqgD/439634.ts",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/439633",
       "group": "Filmy",
       "logo": "",
       "tvg_id": "",
@@ -281,5 +281,5 @@
       "referrer": ""
     }
   ],
-  "signature": "2AvE2HAKiieA6DzXLCbemVSvcIpX-7EuWnADlRh3jKdK6uMg3vax8HNpNNh7Qj-_KjsX8rkPOSmz3GIJbXbkBw"
+  "signature": "upXhkEKoiUslOkYoFjYcDTqgmOhLTKHZdrDNy0INsnKv6fl0Ag-gGjEqM1F9uA_hE3vAYbpnm8ceQzi-9NftAQ"
 }
