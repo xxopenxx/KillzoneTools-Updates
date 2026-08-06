@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 24,
-  "updated_at": "2026-08-06T01:14:02Z",
+  "sequence": 25,
+  "updated_at": "2026-08-06T01:14:54Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -180,7 +180,25 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "History 1",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/959",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "History 2",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/954",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "2kLAAv5gAeYXPLf2JXClHRvBes0oHrSNcAZI1V_WLLoOM1Zj7e4z6Nz5L1WdEOvHBJEq2My2_gBCg_1_7Zb0Cg"
+  "signature": "Ga5byzfVIO_73cA7_o50cnerYdmK0Hlk6nuH65aFtSApPO4108tODueWXhbKcWG3XbK8GntVK5oHyjhv4O_HBw"
 }
