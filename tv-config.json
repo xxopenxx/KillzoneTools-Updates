@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 25,
-  "updated_at": "2026-08-06T01:14:54Z",
+  "sequence": 26,
+  "updated_at": "2026-08-06T01:44:42Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -198,7 +198,88 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Polsat Play FHD",
+      "url": "http://zw00.xyz:8080/live/ckpJDWBu/rPu9zDahWqgD/439634.ts",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Extra 2",
+      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/875",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Eurosport 3",
+      "url": "http://vppyddncr.top:8080/live/vip6911768238998/c21d35882592/157591.ts",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Eurosport 4",
+      "url": "http://vppyddncr.top:8080/live/vip6911768238998/c21d35882592/157592.ts",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Premium 2",
+      "url": "http://vppyddncr.top:8080/live/vip6911768238998/c21d35882592/871.ts",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Film FHD",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/439516",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Extra 4 HD",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/907637",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Extra 3 HD",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/907639",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
+    },
+    {
+      "name": "Polsat Sport Extra 1 FHD",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/907644",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "Ga5byzfVIO_73cA7_o50cnerYdmK0Hlk6nuH65aFtSApPO4108tODueWXhbKcWG3XbK8GntVK5oHyjhv4O_HBw"
+  "signature": "2AvE2HAKiieA6DzXLCbemVSvcIpX-7EuWnADlRh3jKdK6uMg3vax8HNpNNh7Qj-_KjsX8rkPOSmz3GIJbXbkBw"
 }
