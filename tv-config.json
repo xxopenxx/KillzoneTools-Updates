@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 27,
-  "updated_at": "2026-08-06T02:33:16Z",
+  "sequence": 28,
+  "updated_at": "2026-08-16T15:23:38Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -279,7 +279,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Canal+ Sport 3 HD",
+      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/907631",
+      "group": "Sport",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "upXhkEKoiUslOkYoFjYcDTqgmOhLTKHZdrDNy0INsnKv6fl0Ag-gGjEqM1F9uA_hE3vAYbpnm8ceQzi-9NftAQ"
+  "signature": "du-5ULtex0-6_qG5I7rV_UfC9arDTJWxyf2CZUVwTyGzx-JLFepVJoksgojgWE5x1u7nakUo6hnyuGNLXqEECw"
 }
