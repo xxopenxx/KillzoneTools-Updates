@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 32,
-  "updated_at": "2026-09-03T22:26:36Z",
+  "sequence": 33,
+  "updated_at": "2026-09-03T22:27:22Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -174,7 +174,7 @@
     },
     {
       "name": "Nickelodeon",
-      "url": "http://vppyddncr.top:8080/vip6911768238998/c21d35882592/976",
+      "url": "http://neorcqds.top:8080/191703089055131/01703089055686/10197",
       "group": "Bajki",
       "logo": "",
       "tvg_id": "",
@@ -299,5 +299,5 @@
       "referrer": ""
     }
   ],
-  "signature": "bvo1AOA6NN5gFGdnHTjxW_7ewED35oc-SRcJsA1bQ8QNYPmq93FMC8u7Ws2qf7bBYkKYZkghfAOqv19CM818Cw"
+  "signature": "0QMmkdkCUEPBmkiDuvIeK8ppWlGrYf5kAkvvKiezdcI4YGXuhm463-IlmkatPqHAXXwjdxWXytxsWwBS0IPXBQ"
 }
