@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 29,
-  "updated_at": "2026-09-03T22:24:30Z",
+  "sequence": 30,
+  "updated_at": "2026-09-03T22:25:09Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -39,7 +39,7 @@
     },
     {
       "name": "TVN 24 HD",
-      "url": "http://81.31.194.66:8080/pro2921768307733/6a8b5a27cb9d/1004",
+      "url": "http://neorcqds.top:8080/191703089055131/01703089055686/10241",
       "group": "Wydarzenia",
       "logo": "",
       "tvg_id": "",
@@ -299,5 +299,5 @@
       "referrer": ""
     }
   ],
-  "signature": "MYhpdHN42FncR2jqoIlimTvcQa3XoxtaJImzj3oX3BcXbvOFzRFI5IGPUVQmnGD90MceyDT-9I6VOGvTYmNzDA"
+  "signature": "tLQL8STpX4iByG25CBSExINzFLsnLAtmWiuDTRrTjyTzUkuh0-Qr07aIkKWK7BVxeuwb3VdWp4xPjc02wjOuBQ"
 }
