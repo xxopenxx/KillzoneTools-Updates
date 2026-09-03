@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 28,
-  "updated_at": "2026-08-16T15:23:38Z",
+  "sequence": 29,
+  "updated_at": "2026-09-03T22:24:30Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -288,7 +288,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TVN",
+      "url": "http://neorcqds.top:8080/191703089055131/01703089055686/10238",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "du-5ULtex0-6_qG5I7rV_UfC9arDTJWxyf2CZUVwTyGzx-JLFepVJoksgojgWE5x1u7nakUo6hnyuGNLXqEECw"
+  "signature": "MYhpdHN42FncR2jqoIlimTvcQa3XoxtaJImzj3oX3BcXbvOFzRFI5IGPUVQmnGD90MceyDT-9I6VOGvTYmNzDA"
 }
