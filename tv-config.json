@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 36,
-  "updated_at": "2026-09-10T17:49:29Z",
+  "sequence": 37,
+  "updated_at": "2026-09-10T17:59:24Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -315,7 +315,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TV Trwam",
+      "url": "https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd",
+      "group": "Religia",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "czNI1Tr2wjnKn9EAQ7cZppx4XBCaVylswEhYWPfwBFfvFpx2J8GKz2fOPsqTcBtCr9JHfKyb62CELufRVCyMBg"
+  "signature": "M4IHigQJKH0353cdhOi_PXGp4KfZ8e8HinJ5oEgVx1D0XrjrUK07xSFzpO0qP1EuVrV7paZ9N08GsOgZ03kuBA"
 }
