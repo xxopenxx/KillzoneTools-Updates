@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 34,
-  "updated_at": "2026-09-10T17:43:59Z",
+  "sequence": 35,
+  "updated_at": "2026-09-10T17:45:23Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -297,7 +297,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "Comedy Central",
+      "url": "http://31.43.191.125:8080/restream/restream/924",
+      "group": "Komedia",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "mLOE2yuH_N5FXdtGPmvQ0nFJly_mefFPbZBHfgq8OOg0B3bSMvT81snibzE1ZSLih_KgNWekFP05AQq9v1ACCw"
+  "signature": "tsC0wD3yKfKGURw0EfLRuyp0dLQ7i3NfAxAcOhZanSXs3g7xr7S78d8iKJbJiFY0PlC8Dm5PMg7qMrIdFTZFCg"
 }
