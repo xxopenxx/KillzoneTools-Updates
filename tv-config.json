@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 33,
-  "updated_at": "2026-09-03T22:27:22Z",
+  "sequence": 34,
+  "updated_at": "2026-09-10T17:43:59Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Polsat Play FHD",
-      "url": "http://zw00.xyz:8080/ckpJDWBu/rPu9zDahWqgD/439633",
+      "url": "http://31.43.191.125:8080/restream/restream/992",
       "group": "Filmy",
       "logo": "",
       "tvg_id": "",
@@ -299,5 +299,5 @@
       "referrer": ""
     }
   ],
-  "signature": "0QMmkdkCUEPBmkiDuvIeK8ppWlGrYf5kAkvvKiezdcI4YGXuhm463-IlmkatPqHAXXwjdxWXytxsWwBS0IPXBQ"
+  "signature": "mLOE2yuH_N5FXdtGPmvQ0nFJly_mefFPbZBHfgq8OOg0B3bSMvT81snibzE1ZSLih_KgNWekFP05AQq9v1ACCw"
 }
