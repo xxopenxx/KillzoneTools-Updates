@@ -1,8 +1,8 @@
 {
   "schema": 3,
   "product": "KillzoneTools",
-  "sequence": 35,
-  "updated_at": "2026-09-10T17:45:23Z",
+  "sequence": 36,
+  "updated_at": "2026-09-10T17:49:29Z",
   "mode": "channels",
   "source": "",
   "sha256": "",
@@ -306,7 +306,16 @@
       "tvg_id": "",
       "user_agent": "",
       "referrer": ""
+    },
+    {
+      "name": "TLC",
+      "url": "http://31.43.191.125:8080/restream/restream/1008",
+      "group": "Filmy",
+      "logo": "",
+      "tvg_id": "",
+      "user_agent": "",
+      "referrer": ""
     }
   ],
-  "signature": "tsC0wD3yKfKGURw0EfLRuyp0dLQ7i3NfAxAcOhZanSXs3g7xr7S78d8iKJbJiFY0PlC8Dm5PMg7qMrIdFTZFCg"
+  "signature": "czNI1Tr2wjnKn9EAQ7cZppx4XBCaVylswEhYWPfwBFfvFpx2J8GKz2fOPsqTcBtCr9JHfKyb62CELufRVCyMBg"
 }
