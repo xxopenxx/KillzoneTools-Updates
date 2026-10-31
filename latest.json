@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.72",
-  "msi_version": "0.7.10072",
-  "build_number": 72,
-  "commit": "aaf415eed7b1ce374ad9a8827e0ac9f6378ac344",
-  "published_at": "2026-08-02T21:31:06.361447Z",
-  "notes": "Napraw porównanie ścieżek Windows w CI",
+  "version": "0.7.0-dev.73",
+  "msi_version": "0.7.10073",
+  "build_number": 73,
+  "commit": "9a917b19c647305a6f6c9042bde2f65164492204",
+  "published_at": "2026-10-31T00:20:02.723697Z",
+  "notes": "Napraw obsługę aktualnego klienta Steam",
   "asset": {
-    "name": "KillzoneTools-build-72-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-72-x64.msi",
-    "sha256": "ae61b7bfa1e05aff4f661ba106721e527cfc1ed40686cc8770a5b20db1abbc11",
-    "size": 22495849
+    "name": "KillzoneTools-build-73-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-73-x64.msi",
+    "sha256": "1e9f0a9856fc490de33eb39f24b883898573f836223467d909640cc1f543242f",
+    "size": 22479759
   },
   "package": {
-    "name": "KillzoneTools-build-72-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-72-x64.zip",
-    "sha256": "488e2e92209594e3134cc1d231d84fd8efbca8ad19c1a6cf5a973929a85e7195",
-    "size": 29585134
+    "name": "KillzoneTools-build-73-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-73-x64.zip",
+    "sha256": "d6e33e30dae7599e69b6445225d4f1f4895b0d694c638453af5adda62b6fed16",
+    "size": 28674457
   }
 }
