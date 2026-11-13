@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.1074",
-  "msi_version": "0.7.11074",
-  "build_number": 1074,
-  "commit": "86e1ea43c3b3857c3294ac7b92ef87a95f3532a0",
-  "published_at": "2026-10-31T00:35:27.057314Z",
-  "notes": "Napraw monotoniczne numery aktualizacji",
+  "version": "0.7.0-dev.1075",
+  "msi_version": "0.7.11075",
+  "build_number": 1075,
+  "commit": "d7242ad3fe8688c178d785b41111fbdc2f549371",
+  "published_at": "2026-11-13T04:02:44.557071Z",
+  "notes": "Dodaj sygnatury klienta Steam z listopada",
   "asset": {
-    "name": "KillzoneTools-build-1074-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1074-x64.msi",
-    "sha256": "bd04fd4e6687c34e783cb103e5a464c76aaeecab19805df48933cde44edd7efc",
-    "size": 22483859
+    "name": "KillzoneTools-build-1075-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1075-x64.msi",
+    "sha256": "a1690f901a44eafc03fcc156a53eb79106f051c3e38a88e3772f030ef0e64c87",
+    "size": 22619027
   },
   "package": {
-    "name": "KillzoneTools-build-1074-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1074-x64.zip",
-    "sha256": "dd29460a87f9fe79b030b69d45e74e2cf403b1bae6f95b304c724c368de271cb",
-    "size": 28674370
+    "name": "KillzoneTools-build-1075-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1075-x64.zip",
+    "sha256": "54159661f763dc8f4a6b086c5528687796427e770e26b654a4e5b4dfed666f4a",
+    "size": 28863381
   }
 }
