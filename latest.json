@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.1076",
-  "msi_version": "0.7.11076",
-  "build_number": 1076,
-  "commit": "37f71fb96d5459d3f99989dc76156e33daf0aa8d",
-  "published_at": "2026-11-13T06:39:52.116437Z",
-  "notes": "Napraw odświeżanie biblioteki Steam",
+  "version": "0.7.0-dev.1077",
+  "msi_version": "0.7.11077",
+  "build_number": 1077,
+  "commit": "84cfaa165b9511acded17572a8ed490c5fa09067",
+  "published_at": "2026-11-14T19:46:25.906643Z",
+  "notes": "Dodaj sygnatury hotfixu Steam z listopada",
   "asset": {
-    "name": "KillzoneTools-build-1076-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1076-x64.msi",
-    "sha256": "2cf52d587a609f97e2e0c1fba85109043d855e6e8a8182329288ee8e51860ead",
-    "size": 22467475
+    "name": "KillzoneTools-build-1077-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1077-x64.msi",
+    "sha256": "db0722c0f50b71fb3bb17d1732a64230b2e2f247118ba47e6810a0891b718ab7",
+    "size": 22483859
   },
   "package": {
-    "name": "KillzoneTools-build-1076-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1076-x64.zip",
-    "sha256": "95a769bf8814528569f766388bc5af3f6db7c10a32872f5aeb12d6eb8912698a",
-    "size": 28677829
+    "name": "KillzoneTools-build-1077-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1077-x64.zip",
+    "sha256": "6204acd98e3fef22533c4c7f57f147c3968f0fda898cbe44f4d21c84e7548eeb",
+    "size": 28679270
   }
 }
