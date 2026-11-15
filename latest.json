@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "product": "KillzoneTools",
-  "version": "0.7.0-dev.1079",
-  "msi_version": "0.7.11079",
-  "build_number": 1079,
-  "commit": "12e7b151a32fece369e23b6ef02ce5fedc2fdb28",
-  "published_at": "2026-11-15T02:11:07.356131Z",
-  "notes": "Napraw rozmiary i montowanie depotów Steam",
+  "version": "0.7.0-dev.1080",
+  "msi_version": "0.7.11080",
+  "build_number": 1080,
+  "commit": "0c205b38138bebe7d31edfcbf6f23f04d799aae3",
+  "published_at": "2026-11-15T02:28:43.406967Z",
+  "notes": "Napraw hot-reload nowych gier Steam",
   "asset": {
-    "name": "KillzoneTools-build-1079-x64.msi",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1079-x64.msi",
-    "sha256": "f64bd78745210dd92f31fe617d241ff92241dba485ca429873ec576da4cbef5c",
-    "size": 22479763
+    "name": "KillzoneTools-build-1080-x64.msi",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1080-x64.msi",
+    "sha256": "a2cc0e5c48868a87f2c52aa0233f9e50ef925aa3a2bcdaa9b325f624c34e856e",
+    "size": 22475667
   },
   "package": {
-    "name": "KillzoneTools-build-1079-x64.zip",
-    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1079-x64.zip",
-    "sha256": "e961a4586456acfae468b17d7920a9b2fa7be854132027f22319655721269d0e",
-    "size": 28682398
+    "name": "KillzoneTools-build-1080-x64.zip",
+    "url": "https://raw.githubusercontent.com/xxopenxx/KillzoneTools-Updates/main/KillzoneTools-build-1080-x64.zip",
+    "sha256": "a7327d7633361f4f112b0715d5b4989b828b4c9eb06616189a6cc43091129acc",
+    "size": 28682994
   }
 }
